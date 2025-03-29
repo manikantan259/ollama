@@ -1,0 +1,9 @@
+langchain
+langchain-community
+ipykernel
+python-dotenv
+langchain-text-splitters
+beautifulsoup4
+langchain_openai
+faiss-cpu
+streamlit
